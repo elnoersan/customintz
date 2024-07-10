@@ -1,0 +1,159 @@
+{
+  "Header": {
+    "title": "Realisasikan Ide anda menjadi kenyataan",
+    "paragraph": "Customitz memiliki tujuan, agar Anda dapat mendesign peripheral anda menjadi unik dan menarik. Untuk merealisasikan design Anda, Kami teralifiasi dengan partnership professional enthusias yang akan menjadi nyata."
+  },
+  "About": {
+    "paragraph": "Dengan Revolusi AI, Kami menjadi pelopor di Indonesia sebagai yang pertama dan satu-satunya dapat memuaskan keinginan Anda yang ingin berbeda dari yang lain. Jadilah diri Anda sendiri dengan bantuan Kami.",
+    "Why": [
+      "Dari pikiran Anda menjadi design yang diinginkan",
+      "Hidupkan suasana setup Anda",
+      "Jadilah diri Anda SENDIRI!",
+      "Buat setup Anda UNIK!"
+    ],
+    "Why2": [
+      "Generate design dengan AI kami yang telah dioptimalisasi untuk customization.",
+      "AI Kami memiliki kemampuan untuk menyesuaikan keinginan akan design impian anda.",
+      "Kami menyediakan ini untuk membuktikan bahwa anda bisa menjadi diri anda sendiri dengan bantuan AI Kami.",
+      "Hasil AI kami selalu berbeda di setiap customer, keunikan adalah sebuah indentitas."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Mint",
+      "largeImage": "img/portfolio/01-large.png",
+      "smallImage": "img/portfolio/01-small.png"
+    },
+    {
+      "title": "Hell Fire",
+      "largeImage": "img/portfolio/02-large.png",
+      "smallImage": "img/portfolio/02-small.png"
+    },
+    {
+      "title": "Mini 40",
+      "largeImage": "img/portfolio/03-large.png",
+      "smallImage": "img/portfolio/03-small.png"
+    },
+    {
+      "title": "Macro of Happy",
+      "largeImage": "img/portfolio/04-large.png",
+      "smallImage": "img/portfolio/04-small.png"
+    },
+    {
+      "title": "KAWAII!!!",
+      "largeImage": "img/portfolio/05-large.png",
+      "smallImage": "img/portfolio/05-small.png"
+    },
+    {
+      "title": "AUDIOPHILE",
+      "largeImage": "img/portfolio/06-large.png",
+      "smallImage": "img/portfolio/06-small.png"
+    },
+    {
+      "title": "OwO",
+      "largeImage": "img/portfolio/07-large.png",
+      "smallImage": "img/portfolio/07-small.png"
+    },
+    {
+      "title": "Honeycomb",
+      "largeImage": "img/portfolio/08-large.png",
+      "smallImage": "img/portfolio/08-small.png"
+    },
+    {
+      "title": "LogiUnique",
+      "largeImage": "img/portfolio/09-large.png",
+      "smallImage": "img/portfolio/09-small.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-paint-brush",
+      "name": "Generate Design by Our AI",
+      "text": "Generate Design Anda sesesai selera dan imajinasi Anda."
+    },
+    {
+      "icon": "fa fa-cog",
+      "name": "Generate Features by Our AI",
+      "text": "Generate fitur-fitur yang anda inginkan."
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Generate Schematics from Your Generated Ideas",
+      "text": "Kami akan menhasilkan blueprint sesuai apa yang anda inginkan."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Your Ideas Will Be Executed by Professionals",
+      "text": "Blueprint anda akan dieksekusi oleh para ahli dari Mitra Partner Kami."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/pixie.png",
+      "text": "\"Gak nyangka keyboard gaming saya bisa sebagus ini! Customintz benar-benar paham kebutuhan saya, mulai dari switch yang pas sampai keycaps yang keren. Responsif banget main game sekarang!\"",
+      "name": "@uWu_Pixie"
+    },
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Mouse saya jadi lebih nyaman dipakai seharian di kantor. Bentuknya disesuaikan sama tangan saya, jadi gak bikin pegal lagi. Terima kasih.\"",
+      "name": "@Johnathan Suharja"
+    },
+    {
+      "img": "img/testimonials/anonymus.png",
+      "text": "\"Terimakasih atas custom Keyboardnya, Saya berasa diri saya sepenuhnya menjadi hacker yang keren.\"",
+      "name": "@AnonymusCustomer"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Alexander Xiao Lie",
+      "job": "Head of Our Vendor"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "John Sagar",
+      "job": "Head of Our Assemblr"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Adam Smith",
+      "job": "Our Social Influencer Community"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "IMKG",
+      "job": "Indonesia Community Base"
+    }
+  ],
+  "Contact": {
+    "address": "Umbulmartani, Ngemplak 55584, Sleman, Daerah Istimewa Yogyakarta, Indonesia. ",
+    "phone": "+62 819-2960-2372",
+    "email": "contact.customintzcomn@gmail.com",
+    "instagram": "instagram.com/customintz.id/",
+    "github": "twitter.com",
+    "whatsapp": "wa.me/6281929602372"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
